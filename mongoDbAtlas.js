@@ -70,7 +70,7 @@ const mongo = {
   updateOne: updateOne,
   dataChecker: dataChecker,
   url: process.env.MONGO_URI,
-  database: "cluster0-towls"
+  database: "Cluster0"
 };
 
 module.exports = mongo;
